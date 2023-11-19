@@ -1,0 +1,12 @@
+C:\Users\dlope\source\repos\Tenis\Tenis\bin\Debug\Tenis.exe.config
+C:\Users\dlope\source\repos\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Users\dlope\source\repos\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.csproj.AssemblyReference.cache
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.Juego.resources
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.csproj.GenerateResource.cache
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.csproj.CoreCompileInputs.cache
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.Inicio.resources
+C:\Users\dlope\source\repos\Tenis\Tenis\obj\Debug\Tenis.Final.resources
